@@ -1,4 +1,4 @@
-# ML_mini_projects
+# ML mini projects
 ML projects, application and implementation
 
 these projects were done in order to implemenet what we learn and includes kaggle competetions also.
