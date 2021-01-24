@@ -9,8 +9,3 @@ ML assignment-2 contains ML algorithms like descision trees, Naive bayes and gau
 
 ML assignment-3 contains scratch implementation of NN model with sigmoid, softmax, relu, linear and tanh as activation functions and much more which can be find in the ductmentation of ML assignment-3, alsp we use dpytorch implementation of CNN along with pre-trained alex net model to classify images based on the data. Alexnet model output layer which contain 1000 nodes is used as input layer to NN with 256 128 64 hidden layers with output of 2 ( +1/-1).
 
-Kaggle competitions:
-
-https://www.kaggle.com/c/iqb213-atp - ranked 24
-
-https://www.kaggle.com/c/iqb2020 - ranked 61
